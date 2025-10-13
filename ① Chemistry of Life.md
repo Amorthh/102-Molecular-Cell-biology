@@ -1,1 +1,3 @@
- 
+- Two general modes of communication between cells in the body: **neuronal system** and **hormonal system through blood vessels**
+- 1 mole = 6.0221407 x 10 ^ 23 particles (Avogadro’s constant)
+- 

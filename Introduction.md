@@ -1,0 +1,6 @@
+- Lectures for 101 and 102 together, but 2 exams
+- Lectures in January (only) mandatory for lab prep
+- Does my bachelor cover the same topics?
+- Exam tutorials before and after christmas
+- Detailed schedule on Moodle
+- 
