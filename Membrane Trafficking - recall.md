@@ -1,0 +1,25 @@
+- Membrane is a bilayer of non-heterogenous nature, build of phospholipids. It is supposed to segregate specific cell compartments into vesicular compartments - e.g. the nucleus, lysosomes (keep specific pH to degrade materials).
+- SNARe complexes associated in target compartment and in the vesicle, which interaction causes vesicle fusion.
+- Polarity in neurons means, that those have dendrites and axons.
+- Neurotransmitter vesicle release occurs at the axon terminals.
+- AMPAR receptors critical for plasticity of the neurons.
+- NMDAR receptors?
+- TRKB receptors? (reacting to BDNF)
+- Complexicity of post- and pre- synapses
+- Lipid rafts - what receptors are present? What processes are involved? Role of actin? Transmembrane domains?
+	- Lipid rafts are segregated by function - based on type of enrichment included in the area.
+	- Host-pathogen interactions
+	- Types of bending membrane associations?
+	- What compartments are related to each trafficking process? (e.g. late and early endosome)
+	- Stages of clathrin-coated pits & vesicless assembly and dissassembly
+	- Clathrin-mediated endocytosis - know all steps and roles
+	- Biosynthetic pathways of endoplasmatic reticulum? Neuronal compartments representing biosynthetic pathway in neurons? —> Golgi outposts & compartments involved, define donor & target compartment: membrane corridger (?) with coat proteins make membrane bend, which at some point is separating a vesicle. Cesion is causing the separation. It requires energy, so in next steps an uncoating of ATP happen. Next step is tethering and fusion with target compartment. All mediated & specific due to SNARE involvement.
+	- Types of cargo - transmembrane proteins etc
+	- How is membrane specificity maintained in transport vesicles?
+- Coat proteins (COPI, COPII) and their involvement in coating
+- SNAREs - 3 types (VAMP2, STX1A, SNAP25) and their characterisation
+- Cell exterior image - what clathrin in what process?
+- Special compartments in ER present in neurons only?
+	- ER local zones of complexity at dedritic branch points - ERES (ER exit sites), more ribosomes = protein synthesis at sites of ER complexity = at branches of dendrites.
+- Golgi outposts - far from somatic regions, immobilised at branched parts of dendrites; because this place require ER + protein glycosylation (= Golgi)
+- 
